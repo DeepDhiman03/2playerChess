@@ -1,1 +1,1 @@
-"# 2platyerChess" 
+"# 2playerChess" 
