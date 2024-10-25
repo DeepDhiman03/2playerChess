@@ -1,7 +1,7 @@
 
 class Move:
     def __init__(self, initial, final):
-        #intial and final squares
+        #intial and final square
         self.initial = initial
         self.final = final
 
