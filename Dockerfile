@@ -15,7 +15,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 WORKDIR /app/src
 
 # Expose any ports if needed (optional, not strictly necessary for pygame)
-# EXPOSE 8000
+EXPOSE 8000
 
 # Command to run the application
 CMD ["python", "main.py"]
